@@ -1,5 +1,5 @@
-FOR ESX : tested on es_extended v1.final - Artefact 5104
-le mapping glacier : https://www.youtube.com/watch?v=TjWhEoEBh0c
+FOR ESX : tested on es_extended v1.final - Artefact 5104  
+le mapping glacier : https://www.youtube.com/watch?v=TjWhEoEBh0c  
 Vous pouvez faire sans, il vous suffira de bouger les points
 
 **francais**
